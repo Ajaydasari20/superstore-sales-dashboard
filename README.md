@@ -12,7 +12,7 @@ This repository contains the dashboard and dataset for analyzing sales performan
 - Monthly sales trends, category-wise performance, discount impact, shipping modes, and more.
 
 ## 📈 Tools Used:
-- Excel / Power BI / Python (choose your tool)
+- Power BI 
 - Data Visualization
 - Exploratory Data Analysis
 
